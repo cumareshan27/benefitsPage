@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('htpps://www.capitalone/assets/enterprise/css/gravity-core/grv-core.min.css');
+
+.nav-sec{
+    height: 70px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 70px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header-sec {
+    padding-left: 50px;
+}
+
+.banner-img {
+    background-image: url(./assets/images/image);
+    background-size: cover;
+    height: 325px;
+}
+
+.banner-img-card{
+    box-sizing: border-box;
+    height: 225px;
+    width: 400px;
+    padding: 1.25rem;
+    background: rgba(255, 255, 255, .7);
+    text-align: left;
+    margin-right: 110px;
+    margin-top: 60px;
+}
+
+.breadcrumb-font{
+    font-size: 8pt;
+}
+
+.fa{
+    padding-right:25px;
+    size: "50px";
+}
