@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-@import url('htpps://www.capitalone/assets/enterprise/css/gravity-core/grv-core.min.css');
+/* @import url('htpps://www.capitalone/assets/enterprise/css/gravity-core/grv-core.min.css'); */
 
 .nav-sec{
     height: 70px;
@@ -14,11 +14,11 @@
     padding-left: 50px;
 }
 
-.banner-img {
+/* .banner-img {
     background-image: url(./assets/images/image);
     background-size: cover;
     height: 325px;
-}
+} */
 
 .banner-img-card{
     box-sizing: border-box;
